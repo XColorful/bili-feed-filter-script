@@ -1,5 +1,5 @@
 # bili-feed-filter-script
-👇油猴脚本
+👇AI油猴脚本
 ```javascript
 // ==UserScript==
 // @name         Bot站首页视频过滤
