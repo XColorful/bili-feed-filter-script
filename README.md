@@ -80,6 +80,15 @@
             { type: 'regexp', filter: 'video', value: '发展史！$' },
             { type: 'regexp', filter: 'video', value: '^【中(字|配)】' },
             { type: 'regexp', filter: 'video', value: '^我的世界：' },
+            { type: 'keyword', filter: 'all', value: '鸿蒙' },
+            { type: 'keyword', filter: 'all', value: '华为' },
+            { type: 'keyword', filter: 'all', value: '问界' },
+            { type: 'keyword', filter: 'all', value: '智界' },
+            { type: 'keyword', filter: 'all', value: '享界' },
+            { type: 'keyword', filter: 'all', value: '尚界' },
+            { type: 'keyword', filter: 'all', value: '尊界' },
+            { type: 'keyword', filter: 'all', value: '乾崑' },
+            { type: 'keyword', filter: 'all', value: '阿维塔' },
         ]
     };
 
